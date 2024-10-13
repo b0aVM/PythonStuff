@@ -1,8 +1,6 @@
 '''
 https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python
 '''
-from os.path import split
-
 
 def abbrev_name(name):
     y = ""
